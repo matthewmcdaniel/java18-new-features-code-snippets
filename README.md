@@ -9,4 +9,4 @@ mvn clean package javadoc:javadoc
 ```
 Then view the resulting javadocs in your favorite web browser.
 
-The docs should be located in `target/site/apidocs/me/matthewmcdaniel/Main.html`.
+The docs should be located in `target/site/apidocs/me/matthewmcdaniel`.
