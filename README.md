@@ -1,6 +1,6 @@
 **Link to JEP:** https://openjdk.java.net/jeps/413
 
-In Java 18, there is a new feature in the Javadoc tool. Developer can now utilize the `{@snippet}` tag to create code snippets within their documentation.
+In Java 18, there is a new feature in the Javadoc tool. Developers can now utilize the `{@snippet}` tag to create code snippets within their documentation.
 
 Usage
 ---
